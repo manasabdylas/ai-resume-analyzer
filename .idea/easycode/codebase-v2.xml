@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/app/components/Navbar.tsx;C:/Users/manas/resume-analyzer/app/components/resumeCard.tsx;C:/Users/manas/resume-analyzer/app/components/ScoreCircle.tsx;C:/Users/manas/resume-analyzer/app/lib/puter.ts;C:/Users/manas/resume-analyzer/app/routes/auth.tsx;C:/Users/manas/resume-analyzer/app/routes/home.tsx;C:/Users/manas/resume-analyzer/app/welcome/welcome.tsx;C:/Users/manas/resume-analyzer/app/app.css;C:/Users/manas/resume-analyzer/app/root.tsx;C:/Users/manas/resume-analyzer/app/routes.ts;C:/Users/manas/resume-analyzer/constants/index.ts;C:/Users/manas/resume-analyzer/types/index.d.ts;C:/Users/manas/resume-analyzer/types/puter.d.ts;C:/Users/manas/resume-analyzer/package-lock.json;C:/Users/manas/resume-analyzer/package.json;C:/Users/manas/resume-analyzer/react-router.config.ts;C:/Users/manas/resume-analyzer/README.md;C:/Users/manas/resume-analyzer/tsconfig.json;C:/Users/manas/resume-analyzer/vite.config.ts" />
+  </component>
+</project>
